@@ -14,6 +14,7 @@
   <a target="_blank" href = "https://facebook.com/profile.php?id=61556110993693"><img src="https://img.shields.io/badge/-Facebook-%23333?style=for-the-badge&logo=facebook&logoColor=blue"/></a>
   <a target="_blank" href = "https://discordapp.com/users/1206834873050992721"><img src="https://img.shields.io/badge/-Discord-%23333?style=for-the-badge&logo=discord&logoColor=blue"/></a>
   <a target="_blank" href = "https://t.me/devgenius0214"><img src="https://img.shields.io/badge/-Telegram-%23333?style=for-the-badge&logo=telegram&logoColor=blue"/></a>
+  <a target="_blank" href = "https://join.slack.com/t/newworkspace-zw43678/shared_invite/zt-2esasaaci-2KEys~SbX01ZnsM96BGDXA"><img src="https://img.shields.io/badge/-Slack-%23333?style=for-the-badge&logo=slack&logoColor=blue"/></a>
 </p>
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
