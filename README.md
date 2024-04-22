@@ -14,6 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Merged Pull Requests](https://img.shields.io/github/issues-pr-closed/terrance1996/terrance1996)
-
-
